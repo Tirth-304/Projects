@@ -1,6 +1,7 @@
 # Projects
 
 Mainly, I have worked on Natural Language Processing, Image Recognition, Classification & Regression.
+Here are some of the projects I made while learning and some by myself.
 
 ## Image Recognition
 
